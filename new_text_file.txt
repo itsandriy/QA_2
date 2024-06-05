@@ -1,3 +1,7 @@
 new file
+<<<<<<< HEAD
 main branch
 main branch1
+=======
+testing branch
+>>>>>>> testing
